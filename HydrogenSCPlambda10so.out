@@ -22,3 +22,27 @@ Ploting for 3s with Energy = -0.006415762150970595 and lambda = 10
 ***************************************
 Calculations are done.Thu Apr 28 09:25:49 2022
 Time taken for calculations 17.365777730941772 secs
+Starting Calculations Tue May 17 17:43:10 2022
+
+Found bound state at E=  -0.814116090 l=0 n=1
+Found bound state at E=  -0.099856540 l=0 n=2
+Found bound state at E=  -0.006415762 l=0 n=3
+Found bound state at E=  -0.093068778 l=1 n=1
+Found bound state at E=  -0.003176651 l=1 n=2
+------------------------------------------------------------------
+Ploting for 3s with Energy = -0.006415762150970595 and lambda = 10
+***************************************
+Calculations are done.Tue May 17 17:43:27 2022
+Time taken for calculations 17.183700561523438 secs
+Starting Calculations Tue May 17 17:44:07 2022
+
+Found bound state at E=  -0.814116090 l=0 n=1
+Found bound state at E=  -0.099856540 l=0 n=2
+Found bound state at E=  -0.006415762 l=0 n=3
+Found bound state at E=  -0.093068778 l=1 n=1
+Found bound state at E=  -0.003176651 l=1 n=2
+------------------------------------------------------------------
+Ploting for 3s with Energy = -0.006415762150970595 and lambda = 10
+***************************************
+Calculations are done.Tue May 17 17:44:28 2022
+Time taken for calculations 20.903404712677002 secs

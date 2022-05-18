@@ -89,6 +89,7 @@ for n, l, En in Bnd:
         ur *= 1.0 / np.lib.scimath.sqrt(norm)
         ax.plot(R, ur, label=str(n) + azimqnum[l])
 ax.legend()
+plt.show()
 plt.savefig("HydrogenatonEigenvalueslambda=10s" + ".png")
 fprint("***************************************")
 fprint("Calculations are done." + time.asctime())
